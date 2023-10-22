@@ -7,3 +7,10 @@ import org.springframework.stereotype.Repository
 
 @Repository
 interface OrderItemRepository : JpaRepository<OrderItem?, OrderItemKey?>
+
+/**
+---------------------------------
+// Phollaphat Soisermsup
+// 6410450184
+---------------------------------
+ **/

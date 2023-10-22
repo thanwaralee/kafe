@@ -13,3 +13,10 @@ import java.util.UUID;
 public interface MemberRepository extends JpaRepository<Member, UUID> {
     Member findByUsername(String username);
 }
+
+/**
+ ---------------------------------
+ // Phollaphat Soisermsup
+ // 6410450184
+ ---------------------------------
+ **/
